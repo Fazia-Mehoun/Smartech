@@ -3,7 +3,7 @@ Catégorie du projet : Développement Web
 
 Année : 2024  
 
-Projet en :binome 
+Projet en :binome/3 Mois 
 
 Responsabilité et réalisations :
 Conception et développement d’un site web e-commerce permettant l’affichage
